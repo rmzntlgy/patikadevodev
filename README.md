@@ -1,0 +1,2 @@
+# patikadevodev
+Patika Dev Ödevleri
